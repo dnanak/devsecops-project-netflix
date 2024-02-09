@@ -9,4 +9,5 @@ Project Roadmap:
 
 The Netflix Clone dashboard:
 
-![Uploading home-page.png…]()
+![home-page](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/99ad7df9-3e5e-4ff8-9a7c-c11bf59a1fac)
+
