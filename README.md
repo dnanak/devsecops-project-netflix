@@ -23,3 +23,8 @@ Prometheus:
 
 ![Screenshot 2024-02-09 at 07 17 42](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/ff73a707-edd2-456c-89e9-9401711a1ebf)
 
+Other features:
+
+![Screenshot 2024-02-10 at 02 39 57](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/9a058e9d-c2b9-463a-87aa-463fc3ce5381)
+
+![Screenshot 2024-02-10 at 02 39 45](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/7935a982-228a-49ba-af9c-0fc57fbdd97a)
