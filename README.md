@@ -28,3 +28,5 @@ Other features:
 ![Screenshot 2024-02-10 at 02 39 57](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/9a058e9d-c2b9-463a-87aa-463fc3ce5381)
 
 ![Screenshot 2024-02-10 at 02 39 45](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/7935a982-228a-49ba-af9c-0fc57fbdd97a)
+
+![Screenshot 2024-02-10 at 05 15 47](https://github.com/dnanak/devsecops-project-netflix/assets/147429909/a81daeec-668b-4206-94c0-157545e0c909)
