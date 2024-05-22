@@ -1,7 +1,7 @@
 # devsecops-project-netflix
 This is an example of how I set up a DevSecOps Pipeline from scratch, deploying an application, using most AWS resources, security and observability tools.
 
-This DevSecOps project is deploying a Netflix clone application as a Docker container on a Kubernetes cluster through a secure pipeline that I will build from scratch which is Jenkins. Along with Jenkins, I will be using Docker for containerisation, SonarCloud for reporting back how the builds have worked, Trivy to scan for vulnerabilities inside the containers that are running, Prometheus for observing and collecting data in realtime along with Grafana. Agro CD to monitor the cluster and using Helm configuration (with Terraform) for the K8s deployment.
+This DevSecOps project is deploying a Netflix clone application as a Docker container on a Kubernetes cluster through a secure pipeline that I will build from scratch which is Jenkins. Along with Jenkins, I will be using Docker for containerisation, SonarCloud for reporting back how the builds have worked, Trivy to scan for vulnerabilities inside the containers that are running, Prometheus for observing and collecting data in realtime along with Grafana. Argo CD is used to monitor the cluster and using Helm configuration (with Terraform) for the K8s deployment.
 
 Project Roadmap:
 
